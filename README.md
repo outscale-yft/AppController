@@ -12,7 +12,7 @@ AppController is a beginning OpenSource Application able to scale up and down yo
 AppController should be agnostic with monitoring systems such as cloud providers.
 
 # Design
-![alt tag](https://raw.githubusercontent.com/bzhtux/bzhtux.github.io/master/statics/AC_Design_Modules.png)
+![alt tag](https://raw.githubusercontent.com/bzhtux/AppController/master/statics/docs/readme/modules_schema.png)
 
 *Modules and main workflow schema*
 
