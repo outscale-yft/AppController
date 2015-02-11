@@ -5,6 +5,7 @@ AppController is a beginning OpenSource Application able to scale up and down yo
 
 # Continuous Integration
 ![alt tag](https://travis-ci.org/bzhtux/AppController.svg)
+![alt tag](https://travis-ci.org/bzhtux/AppController.svg?branch=master)
 
 # Goals
 1st goal is to provide an agnostic cloud provider and elastic solution for all applications.
