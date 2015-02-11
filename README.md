@@ -6,7 +6,7 @@ AppController is a beginning OpenSource Application able to scale up and down yo
 # Design
 ![alt tag](https://raw.githubusercontent.com/bzhtux/bzhtux.github.io/master/statics/AC_Design_Modules.png)
 
-*Modules and main workflows schema*
+*Modules and main workflow schema*
 
 # Goals
 1st goal is to provide an agnostic cloud provider and elastic solution for all applications.
