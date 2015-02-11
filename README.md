@@ -8,11 +8,6 @@ AppController is a beginning OpenSource Application able to scale up and down yo
 
 # Goals
 1st goal is to provide an agnostic cloud provider and elastic solution for all applications.
-This App is python and C/c++ written: 
- * Python for connectors
- * C/C++ for intelligence
- 
-C/C++ is able to scale, so this is the reason why we choose python and C/C++.
 
 AppController should be agnostic with monitoring systems such as cloud providers.
 
