@@ -43,11 +43,11 @@ Scheduler module provides a scheduled plan for Customer App. Scheduler module ac
 ## Core
 Core module provides intelligence for AppController App.
 
-Core module looks for tresholds and decide with a algorythm wich action to deploy :
+Core module looks for tresholds and decides wich action to deploy :
 
 * scale up : extend Customer infrastructure
 * scale down : scale down Customer App resources
 
 # Community
-You want to involve yourself in an opensource project dealing with Cloud, fell free to contact me :
+You want to involve yourself in an opensource project, dealing with Cloud, fell free to contact me :
 bzhtux @ gmail.com
