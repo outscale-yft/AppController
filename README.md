@@ -11,6 +11,7 @@ AppController is a beginning OpenSource Application able to scale up and down yo
 This App is python and C/c++ written: 
  * Python for connectors
  * C/C++ for intelligence
+ 
 C/C++ is able to scale, so this is the reason why we choose python and C/C++.
 
 AppController should be agnostic with monitoring systems such as cloud providers.
@@ -26,6 +27,7 @@ AppController is build on top of 4 main modules :
  * Scheduler
  * Core/intellignece
  * Deploy
+ 
 Each module has a simple goal with several methods.
 
 ## Collector
