@@ -1,2 +1,7 @@
+language: python
 python:
   - "2.7"
+
+install: "pip install boto==2.33.0"
+
+script: python --version
