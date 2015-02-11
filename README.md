@@ -1,5 +1,5 @@
 # AppController
-Control each App in each Cloud
+Control each App within each Cloud
 
 AppController is a beginning OpenSource Application able to scale up and down your business App within any cloud provider.
 
