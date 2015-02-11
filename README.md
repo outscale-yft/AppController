@@ -4,7 +4,6 @@ Control each App within each Cloud
 AppController is a beginning OpenSource Application able to scale up and down your business App within any cloud provider.
 
 # Continuous Integration
-![alt tag](https://travis-ci.org/bzhtux/AppController.svg)
 ![alt tag](https://travis-ci.org/bzhtux/AppController.svg?branch=master)
 
 # Goals
